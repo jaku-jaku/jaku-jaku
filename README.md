@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m wondering around the swarm robotics and autonomous vehicles. 
 - 👻 Let's create and advance towards the type 1 civilization!
 - 💬 Ask me about anything!
-- 🧩 Checkout my  website:  [jackxu.io](jackxu.io)
-- ⚡ Fun fact: 
+- 🧩 Checkout my  website:  [jackxu.io](https://jackxu.io)
+- ⚡  Connect on Linkedin: https://www.linkedin.com/in/jack-xu-jxinbox/ 
 
