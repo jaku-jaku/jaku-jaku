@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a Capstone Project: 
-    - [Palm-sized Autonomous Table-top Sanitization Robot](https://tableuv.github.io)
-        - [Open-source Group](https://github.com/TableUV)
+    - [Palm-sized Autonomous Table-top Sanitization Robot](https://github.com/TableUV)
+        - [Our Project Website](https://tableuv.github.io)
 - 🌱 I’m currently finishing my **4B** term at the **University of Waterloo**, with **Mechatronics Engineering B.A.Sc** + **AI option**
 - 👯 I’m open for collaboration
 - 🤔 I’m interested in topics: 
