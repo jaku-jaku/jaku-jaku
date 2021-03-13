@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👻 Let's create and advance towards the type 1 civilization!
 - 💬 Ask me about anything!
 - 🧩 Checkout my  website:  [jackxu.io](https://jackxu.io)
-- ⚡  Connect on Linkedin: https://www.linkedin.com/in/jack-xu-jxinbox/ 
+
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/JXproject" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jack-xu-jxinbox/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<p><a href="https://github.com/JXproject" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jack-xu-jxinbox/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://jackxu.io" target="_blank"><img alt="https://jackxu.io" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fjackxu.io%2F%23page-about" /></a> </p>
