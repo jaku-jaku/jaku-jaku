@@ -6,9 +6,6 @@
 
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxproject&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxproject)](https://github.com/anuraghazra/github-readme-stats) 
-
-
 ## More About Me:
 - 🤔 I’m interested in topics: 
     - Autonomous Mobile Robotics
@@ -19,7 +16,14 @@
     - Exo-skeleton
     - Humanoid Robotics
     - Aeronautic Robotics
+
+## Projects:
 - 🔭 I’m currently working on a Capstone Project: 
     - [Palm-sized Autonomous Table-top Sanitization Robot](https://tableuv.github.io)
     - [![](https://img.shields.io/badge/Supported%20by-Table%20Robotics%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)](https://github.com/orgs/TableUV/teams/table-robotics)
     - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TableUV&repo=FYDP__TableUV)](https://github.com/TableUV/FYDP__TableUV)
+
+## Language:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxproject)](https://github.com/anuraghazra/github-readme-stats) 
+
