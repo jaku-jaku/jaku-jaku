@@ -18,10 +18,12 @@
     - Aeronautic Robotics
 
 ## Projects:
-- 🔭 I’m currently working on a Capstone Project: 
-    - [Palm-sized Autonomous Table-top Sanitization Robot](https://tableuv.github.io)
-    - [![](https://img.shields.io/badge/Supported%20by-Table%20Robotics%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)](https://github.com/orgs/TableUV/teams/table-robotics)
-    - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TableUV&repo=FYDP__TableUV)](https://github.com/TableUV/FYDP__TableUV)
+ 🔭 I’m currently working on a Capstone Project: 
+> ## Palm-sized Autonomous Table-top Sanitization Robot
+> 
+> [![](https://img.shields.io/badge/Supported%20by-Table%20Robotics%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)](https://github.com/orgs/TableUV/teams/table-robotics)
+> 
+> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TableUV&repo=FYDP__TableUV)](https://github.com/TableUV/FYDP__TableUV)
 
 ## Language:
 
