@@ -20,6 +20,7 @@
 <p><a href="https://github.com/JXproject" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jack-xu-jxinbox/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://jackxu.io" target="_blank"><img alt="https://jackxu.io" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fjackxu.io%2F%23page-about" /></a> </p>
 
 <h3>Projects:</h3>
+
 - 🔭 I’m currently working on a Capstone Project: 
     - [Palm-sized Autonomous Table-top Sanitization Robot](https://tableuv.github.io)
     - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TableUV&repo=FYDP__TableUV)](https://github.com/TableUV/FYDP__TableUV)
