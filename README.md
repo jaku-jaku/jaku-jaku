@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - 🧩 Checkout my  website:  [jackxu.io](https://jackxu.io)
 - ⚡  Connect on Linkedin: https://www.linkedin.com/in/jack-xu-jxinbox/ 
 
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=plastic)](https://github.com/JXproject?tab=stars)
-[![GitHub followers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch&style=plastic)](https://github.com/JXproject?tab=followers)
+<h3>Where to find me</h3>
+<p><a href="https://github.com/JXproject" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jack-xu-jxinbox/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
