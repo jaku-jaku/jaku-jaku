@@ -16,6 +16,10 @@
     - Exo-skeleton
     - Humanoid Robotics
     - Aeronautic Robotics
+- Three criteria for projects:
+    - [ ] Must be something I can love to do for 50 years
+    - [ ] Must be unique
+    - [ ] Must be a market lead in 10 years
 
 ## Projects:
  🔭 I’m currently working on a Capstone Project: 
@@ -25,7 +29,17 @@
 > 
 > [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TableUV&repo=FYDP__TableUV)](https://github.com/TableUV/FYDP__TableUV)
 
+## Quote:
+> I don't have such time to waste. One can think as much as he likes. However, I need to act and follow through with my ambition. Because we only live once, I want to do something that will be remembered in history. If I do the same as others do, I will never be able to make history. --- Masayoshi Son
+> Experience is the name everyone gives to their mistake. --- Oscar Wilde
+> Progressive Extremism: Instead of diet (time-based), criteria is picking sth. not hard to give up but give up permanently. Ex: giving up candy corn, and no sugary drinks at house ... ⇒ utilize self-image to boost self control. Ex: Vegen: they just don't eat, because they don't debate, don't spend will power on constant decision. Just don't eat rather sth. I can't do.
+
+## Daily Challenges:
+- [ ] Compliments: make a compliment to one person, one thing, one event per day
+- [ ] Stop urging to say, but listen carefully 
+
 ## Language:
+- Fluent in **C**, **Python**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxproject)](https://github.com/anuraghazra/github-readme-stats) 
 
