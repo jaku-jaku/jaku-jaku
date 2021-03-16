@@ -39,7 +39,7 @@
 - [x] Stop urging to say, but listen carefully 
 
 ## Language:
-- Fluent in [C](https://img.shields.io/static/v1?label=C&color=blue) [Python](https://img.shields.io/static/v1?label=Python&color=purple)
+- Fluent in ![C](https://shields.io/badge/-C-blue) ![Python](https://shields.io/badge/-Python-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxproject)](https://github.com/anuraghazra/github-readme-stats) 
 
