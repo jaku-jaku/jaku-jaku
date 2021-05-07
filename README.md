@@ -43,5 +43,5 @@
 ## Language:
 - Fluent in ![C](https://shields.io/badge/-C-blue) ![Python](https://shields.io/badge/-Python-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxproject)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxproject&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
