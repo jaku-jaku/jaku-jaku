@@ -1,13 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>   Hello, world!</h1>
 
-- 👻 Let's create and advance towards **the type 1 civilization!**
-
 ## Language:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxproject&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 - Fluent in ![C](https://shields.io/badge/-C-blue) ![Python](https://shields.io/badge/-Python-purple)
 
 ## More About Me:
+- 👻 Let's create and advance towards **the type 1 civilization!**
 - 🤔 I’m interested in topics: 
     - Autonomous Mobile Robotics
     - Autonomous Vehicles
