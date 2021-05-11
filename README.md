@@ -21,21 +21,6 @@
     - [x] Must be unique
     - [x] Must be a market lead in 10 years
 
-## Projects:
- 🔭 I’m currently working on a Capstone Project: 
-> ## Palm-sized Autonomous Table-top Sanitization Robot
-> 
-> [![](https://img.shields.io/badge/Supported%20by-Table%20Robotics%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)](https://github.com/orgs/TableUV/teams/table-robotics)
-> 
-> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TableUV&repo=FYDP__TableUV)](https://github.com/TableUV/FYDP__TableUV)
-
-## Quote:
-> I don't have such time to waste. One can think as much as he likes. However, I need to act and follow through with my ambition. Because we only live once, I want to do something that will be remembered in history. If I do the same as others do, I will never be able to make history. --- Masayoshi Son
- 
-> Experience is the name everyone gives to their mistake. --- Oscar Wilde
-
-> Progressive Extremism: Instead of diet (time-based), criteria is picking sth. not hard to give up but give up permanently. Ex: giving up candy corn, and no sugary drinks at house ... ⇒ utilize self-image to boost self control. Ex: Vegen: they just don't eat, because they don't debate, don't spend will power on constant decision. Just don't eat rather sth. I can't do.
-
 ## Daily Challenges:
 - [x] Compliments: make a compliment to one person, one thing, one event per day
 - [x] Stop urging to say, but listen carefully 
