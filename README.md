@@ -19,10 +19,6 @@
     - Exo-skeleton
     - Humanoid Robotics
     - Aeronautic Robotics
-- Three criteria for projects:
-    - [x] Must be something I can love to do for 50 years
-    - [x] Must be unique
-    - [x] Must be a market lead in 10 years
 
 ### Stats:
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxproject&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
