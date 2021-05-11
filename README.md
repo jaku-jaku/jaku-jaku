@@ -21,10 +21,6 @@
     - [x] Must be unique
     - [x] Must be a market lead in 10 years
 
-## Daily Challenges:
-- [x] Compliments: make a compliment to one person, one thing, one event per day
-- [x] Stop urging to say, but listen carefully 
-
 ## Language:
 - Fluent in ![C](https://shields.io/badge/-C-blue) ![Python](https://shields.io/badge/-Python-purple)
 
