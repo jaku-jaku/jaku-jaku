@@ -1,9 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>   Hello, world!</h1>
 
 ### Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxproject&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
 - Fluent in ![C](https://shields.io/badge/-C-blue) ![Python](https://shields.io/badge/-Python-purple)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxproject&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxproject&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
