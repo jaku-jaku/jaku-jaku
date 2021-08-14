@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>   Hello, world!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>   Wasssssssup!</h1>
 
 ### Stats:
 - Fluent in ![C](https://shields.io/badge/-C-blue) ![Python](https://shields.io/badge/-Python-purple)
