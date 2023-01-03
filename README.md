@@ -5,4 +5,3 @@
 <a href="https://jxproject.github.io/my-website/#page-about" target="_blank"><img alt="https://jxproject.github.io/#page-about" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fjxproject.github.io%2F%23page-about" /></a> 
 <a href="https://twitter.com/_jaku_xu" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 </p>
-[WIP 👻: Driving towards Type 1 Civilization ...]
